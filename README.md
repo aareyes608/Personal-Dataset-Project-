@@ -8,7 +8,7 @@ Investigating data through the scatterplot, revealing the weak negative correlat
 Scatterplots: 
 ![Logistic graph 1](https://github.com/user-attachments/files/23866890/Untitled.document.pdf)
 
-![Logistic graph 1](https://github.com/user-attachments/files/23866893/Untitled.document.1.pdf)
+![Logistic graph 2](https://github.com/user-attachments/files/23866893/Untitled.document.1.pdf)
 
 ## Logistic Repression
 The vast spread of data points denotes considerable disparity among states, implys that asthma ED visit rates are not dependent on sample size. States with minor samples would report high combined values, while others would not, thereby emphasizing the role of environmental exposures, demographic differences, and access to care. The lack of clustering or regional patterns further emphasizes that the variability of asthma ED visits is complex and cannot be attributed only to the quantity of visits recorded. The results indicate that methodological factors like sample size do not contribute to the differences in asthma outcomes, thus making it more pertinent to explore environmental stressors as potential causes.
